@@ -1,0 +1,4 @@
+/*基本样式表，方便管理*/
+@import url(color.css);
+@import url(layout.css);
+@import url(typography.css);
